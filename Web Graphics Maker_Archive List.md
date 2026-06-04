@@ -1,6 +1,4 @@
-# **Tab 1**
-
-## **Graphics Makers**
+# **Graphics Makers**
 
 ## ---
 
@@ -70,9 +68,7 @@
 
 [Button Tutorial Part 1](https://youtu.be/4K_y9w1UhxU?si=-Y-0Y-jQb_0NsMNG) \- Tutorial to buttons from scratch
 
-# **Tab 2**
-
-## **Collections/Archives/Directories**
+# **Collections/Archives/Directories**
 
 ---
 
