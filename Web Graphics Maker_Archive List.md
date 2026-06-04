@@ -1,6 +1,6 @@
 # **Graphics Makers**
 
-## ---
+---
 
 ## **80x15px Antipixel/Brilliant Button**
 
