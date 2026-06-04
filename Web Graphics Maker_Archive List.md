@@ -42,6 +42,8 @@
 
 ## **Other Graphic Types**
 
+[https://blinkie.suppi.net/](blinkie.suppi.net) \- "Welcome to Blinkiemakers! This is version n°5 "Soft Grey" This website works only with DESKTOP browsers with Javascript enabled. I'll add mobile compatible code as soon as possible... If you use any blinkies made here on your website, please provide a link back so people know where to make their own!"
+
 [https://isosquad.com/coding/flagmaker.html](https://isosquad.com/coding/flagmaker.html) \- Isosquad’s flag maker
 
 [Web button generator](https://sh2.us/buttons/generator/) \- 88x15px button generator in the style of antipixel buttons
