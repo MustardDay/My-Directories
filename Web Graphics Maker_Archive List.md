@@ -1,7 +1,5 @@
 # **Graphics Makers**
 
----
-
 ## **80x15px Antipixel/Brilliant Button**
 
 [ACA 80x15 Brilliant Button Maker: Make your antipixel button with one click\!](http://www.acasystems.com/en/button-maker/) \- “Pick some colors, enter some text, and you'll get a button you can download for your site.”
@@ -69,8 +67,6 @@
 [Button Tutorial Part 1](https://youtu.be/4K_y9w1UhxU?si=-Y-0Y-jQb_0NsMNG) \- Tutorial to buttons from scratch
 
 # **Collections/Archives/Directories**
-
----
 
 [Collections | FelineWasteland](https://felinewasteland.com/collection) \- Pixels, stamps, blinkies, big blinkies, astrology web badges
 
